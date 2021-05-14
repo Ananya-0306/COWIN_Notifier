@@ -1,7 +1,6 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 <h1 align="center">Hi 👋, I'm Ananya</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-# [CoWin-Vaccine-Notifier]()
 I automated the availability of the Cowin Vaccine slots using Python. You can use the script for free from my GitHub repo. Drop a star, if you find it useful!</br>
 
 <p align="center">
@@ -9,7 +8,7 @@ I automated the availability of the Cowin Vaccine slots using Python. You can us
 </p>
 Coronavirus cases are increasing day by day. The second wave has hit very badly in many areas. It’s very important to get vaccinated. But, getting a slot seems next to impossible. Even I am not able to get my hands on one. So I was trying to think of a better idea possible and if you know me, you must know by now that I am a python freak, so I automated the availability of the Cowin Vaccine slots using Python.
 
-Spread this as much as possible so that, India can soon become a Covid free nation.</br>
+<h3>Spread this as much as possible so that, India can soon become a Covid free nation.</h3></br>
 
 LICENSE:
 ==========================
